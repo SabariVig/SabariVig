@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: [Website](https://sabarivig.github.io)
+- 📫 How to reach me: [Website](https://lxz.io)
 <!--
 **SabariVig/SabariVig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
